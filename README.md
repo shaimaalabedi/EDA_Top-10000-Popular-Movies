@@ -18,8 +18,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/omkarborikar/top-10000-pop
 
 | column name  | description |
 | ------------- | ------------- |
-| id    |     - Number of rows: 10000
-  - Number of columns: 13  |
+| id    |      Number of rows: 10000 Number of columns: 13  |
 | original_language  | There are total 44 languages present in this column. Total 7771 movies with 'English' as original language. Values in this column are ISO 639-1 codes of languages. I.e 'en' for 'English' , 'hi' for 'Hindi' etc.  |
 | original_title  | Title of the movie.  |
 | popularity  | Popularity of movie. Bigger the number , higher the popularity.  |
